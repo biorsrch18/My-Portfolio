@@ -45,9 +45,5 @@ Explore my research on [Google Scholar](https://scholar.google.com/citations?use
 
 ## ☕ Let's Connect
 
-- 💌 Email: bio.rsrch18@gmail.com  
+- 💌 Email: bio.rsrch18@gmail.com, me4bioinfo@gmail.com
 - 💼 Open to collaborations in bioinformatics, drug discovery, and AI/ML for healthcare
-
----
-
-_“Science and technology revolutionize our lives, but memory, tradition and myth frame our response.” – Arthur M. Schlesinger_
