@@ -28,12 +28,13 @@ Python, R, SQL, Scikit-learn, Keras, TensorFlow, NLP, Matplotlib, Seaborn, Power
 
 ## 📌 Featured Projects
 
-🌐 [Stock Sentiment Analyzer(Natural Language Processing)](https://github.com/biorsrch18/stock-sentiment-nlp)  
-🧠 [Plant Seedling Classifier (Computer Vision)](https://github.com/biorsrch18/plant-seedling-cnn)  
-💼 Personal Loan Campaign Prediction (Machine Learning)](https://github.com/biorsrch18/Machine-Learning)_
-📊 Credit Card Users Churn Prediction (Advanced Machine Learning)(https://github.com/biorsrch18/AML_Case-Studies)
-💳 [Bank Churn Prediction (Artificial Neural Network)](https://github.com/biorsrch18/bank-churn-ann)  
-🌱 [FoodHub Customer Segmentation (Python Basics)](https://github.com/biorsrch18/foodhub-segmentation)
+1. 🌱 [FoodHub Customer Segmentation (Python Basics)](https://github.com/biorsrch18/foodhub-segmentation)
+2. 💼 [Personal Loan Campaign Prediction (Machine Learning)](https://github.com/biorsrch18/Machine-Learning)
+3. 📊 [Credit Card Users Churn Prediction (Advanced Machine Learning)](https://github.com/biorsrch18/AML_Case-Studies)
+4. 💳 [Bank Churn Prediction (Artificial Neural Network)](https://github.com/biorsrch18/bank-churn-ann)
+5. 🧠 [Plant Seedling Classifier (Computer Vision)](https://github.com/biorsrch18/plant-seedling-cnn)
+6. 🌐 [Stock Sentiment Analyzer(Natural Language Processing)](https://github.com/biorsrch18/stock-sentiment-nlp) 
+
 
 *(More repositories coming soon!)*
 
